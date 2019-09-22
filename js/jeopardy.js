@@ -101,7 +101,7 @@ $(function(){
                 else {
                     srcPrefix = './'
                 }
-                $('#question-image').empty().append("<img src=" + srcPrefix + questionImage + ">").show();
+                $('#question-image').empty().append("<img src=" + srcPrefix + questionImage + "  class = 'question-image' >").show();
             }
             else {
                 $('#question-image').empty().hide();
@@ -133,7 +133,7 @@ $(function(){
 
                 $('#question').empty().text(currentBoard[category].questions[question].question);
                 if (questionImage){
-                    $('#question-image').empty().append("<img src=./" + questionImage + ">").show();
+                    $('#question-image').empty().append("<img src=./" + questionImage + "  class = 'question-image'>").show();
                 }
                 else {
                     $('#question-image').empty().hide();

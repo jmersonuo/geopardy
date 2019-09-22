@@ -87,8 +87,36 @@ body {
 	color: white;
 }
 
+
+.question-image {
+    height: 55vh; 
+    width: 70vw; 
+    object-fit: contain;
+}
+
+
+#game-load-logo-img{
+    height: 65vh; 
+    width: 90vw; 
+    object-fit: contain;
+}
+
 #daily-double-modal .modal-footer {
 	text-align: center;
+}
+
+#daily-double-modal-content{
+    width:90vw;
+}
+
+#daily-double-modal-dialog{
+    margin: auto 10vh;
+}
+
+#daily-double-logo-img{
+    height: 50vh; 
+    width: 70vw; 
+    object-fit: contain;
 }
 
 #timer-grid {
@@ -136,11 +164,6 @@ body {
 #question-modal-body {
 	margin-left: 10%;
 	margin-right: 10%;
-}
-
-#game-load-logo-img {
-	width: 80%;
-	height: 80%;
 }
 
 #end-round {
