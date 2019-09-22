@@ -86,13 +86,13 @@ $(function(){
         if (isDailyDouble) {
             var dailyDoubleSound = new Audio('./sounds/daily_double.mp3');
             dailyDoubleSound.play();
-            $('#daily-double-modal-title').empty().text(currentBoard[category].name + ' - $' + value);
+            $('#daily-double-modal-title').empty().text(currentBoard[category].name + ' - ' + value);
             $('#daily-double-wager-input').val('');
             $('#daily-double-modal').modal('show');
         }
         else {
             // Candidate for refactoring.
-            $('#modal-answer-title').empty().text(currentBoard[category].name + ' - $' + value);
+            $('#modal-answer-title').empty().text(currentBoard[category].name + ' - ' + value);
             $('#question').empty().text(currentBoard[category].questions[question].question);
             if (questionImage){
                 if (questionImage.startsWith("http")) {
@@ -127,7 +127,7 @@ $(function(){
             	&& Math.max(maxRoundWager, window[scoreVariable]) >= parseInt(inputDailyDoubleValue) ) {
 
                 value = parseInt(inputDailyDoubleValue);
-                $('#modal-answer-title').empty().text(currentBoard[category].name + ' - $' + value);
+                $('#modal-answer-title').empty().text(currentBoard[category].name + ' - ' + value);
                 $('#question-modal .score-button').data('value', value).data('question', question).data('category', category);
                 $('#daily-double-modal').modal('hide');
 
@@ -264,19 +264,19 @@ function adjustScores(){
 
 function updateScore(){
 	var score_text = '';
-	score_player_1 < 0 ? score_text = '-$' + Math.abs(score_player_1).toString() : score_text = "$" + score_player_1.toString();
+	score_player_1 < 0 ? score_text = '-' + Math.abs(score_player_1).toString() : score_text = score_player_1.toString();
 	score_player_1 < 0 ? $('#player-1-score').css('color', 'red') : $('#player-1-score').css('color', 'white');
     $('#player-1-score').empty().text(score_text);
 
-	score_player_2 < 0 ? score_text = '-$' + Math.abs(score_player_2).toString() : score_text = "$" + score_player_2.toString();
+	score_player_2 < 0 ? score_text = '-' + Math.abs(score_player_2).toString() : score_text = score_player_2.toString();
 	score_player_2 < 0 ? $('#player-2-score').css('color', 'red') : $('#player-2-score').css('color', 'white');
     $('#player-2-score').empty().text(score_text);
 
-	score_player_3 < 0 ? score_text = '-$' + Math.abs(score_player_3).toString() : score_text = "$" + score_player_3.toString();
+	score_player_3 < 0 ? score_text = '-' + Math.abs(score_player_3).toString() : score_text = score_player_3.toString();
 	score_player_3 < 0 ? $('#player-3-score').css('color', 'red') : $('#player-3-score').css('color', 'white');
     $('#player-3-score').empty().text(score_text);
 
-    score_player_4 < 0 ? score_text = '-$' + Math.abs(score_player_4).toString() : score_text = "$" + score_player_4.toString();
+    score_player_4 < 0 ? score_text = '-' + Math.abs(score_player_4).toString() : score_text = score_player_4.toString();
     score_player_4 < 0 ? $('#player-4-score').css('color', 'red') : $('#player-4-score').css('color', 'white');
     $('#player-4-score').empty().text(score_text);
 
@@ -364,7 +364,7 @@ function loadBoard() {
             $.each(category.questions, function(n,question){
                 // Questions
                 column.append('<div class="well question unanswered text-center" data-question="' +
-                    n + '">$' + question.value + '</div>');
+                    n + '">' + question.value + '</div>');
             });
         });
     }
@@ -475,7 +475,7 @@ function handleFinalAnswer(){
 
         $(this).prop('disabled', true);
         $(otherButtonID).prop('disabled', true);
-        $(wagerID).prop('disabled', true).val('$' + window[scoreVariable]);
+        $(wagerID).prop('disabled', true).val( window[scoreVariable]);
 
         updateScore();
 
