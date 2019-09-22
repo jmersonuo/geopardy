@@ -1,0 +1,384 @@
+{
+    "double-jeopardy": [
+        {
+            "name": "OBSCURE SEAS",
+            "questions": [
+                {
+                    "answer": "Australia",
+                    "question": "This nation lies south of the Timor Sea",
+                    "value": 200
+                },
+                {
+                    "answer": "Russia",
+                    "question": "This nation lies east of the Barents Sea",
+                    "value": 400
+                },
+                {
+                    "answer": "The Philippines",
+                    "question": "The Sulu Sea is adjacent to this island nation",
+                    "value": 600
+                },
+                {
+                    "answer": "India, the Maldives, Sri Lanka",
+                    "question": "One of the nations bordering the Laccadive Sea",
+                    "value": 800
+                },
+                {
+                    "answer": "Spain, Morocco, Algeria",
+                    "question": "It’s one of the nations bordering the Alboran Sea",
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "name": "SCENIC DRIVES",
+            "questions": [
+                {
+                    "answer": "Glacier",
+                    "question": "Going-to-the-Sun Road offers spectacular views of this national park",
+                    "value": 200
+                },
+                {
+                    "answer": "Pebble Beach",
+                    "question": "17-Mile Drive is the main road through this California community",
+                    "value": 400
+                },
+                {
+                    "answer": "Nova Scotia",
+                    "question": "The Cabot Trail takes you past this province’s Cape Breton",
+                    "value": 600
+                },
+                {
+                    "answer": "Great Ocean Roads",
+                    "question": "Rock stacks called the 12 Apostles dot the Victoria coast near this highway",
+                    "value": 800
+                },
+                {
+                    "answer": "Oklahoma, Arkansas",
+                    "question": "The Talimena Scenic Drive connects these two states through the Ouachita Nat’l Forest",
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "name": "ANGLED BOUNDARIES",
+            "questions": [
+                {
+                    "answer": "Oklahoma & Arkansas",
+                    "image": "images/Okla-Ark.png",
+                    "question": "This border angles off true north 100 paces east of Ft Smith",
+                    "value": 200
+                },
+                {
+                    "answer": "California & Nevada",
+                    "image": "images/Cal-Nev.png",
+                    "question": "Toiyabe and Inyo National Forest boundaries follow the line between these states",
+                    "value": 400
+                },
+                {
+                    "answer": "Mali & Mauritania?",
+                    "image": "images/Mauritania-Mali.png",
+                    "question": "A line through the Sahara separates these nations",
+                    "value": 600,
+                    "daily-double": true
+                },
+                {
+                    "answer": "Arizona & Sonora",
+                    "image": "images/Ariz-Snra.png",
+                    "question": "Nogales is on the international boundary between this state and this estado",
+                    "value": 800
+                },
+                {
+                    "answer": "Uzbekistan & Kazakhstan",
+                    "image": "images/Kazakhstan-Uzbekistan2.png",
+                    "question": "The Aral Sea straddles the angled boundary between these nations",
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "name": "SWAMPS",
+            "questions": [
+                {
+                    "answer": "Everglades",
+                    "question": "Sometimes called Florida’s “river of grass”",
+                    "value": 200
+                },
+                {
+                    "answer": "Okefenokee",
+                    "question": "North America’s largest “blackwater” swamp straddles the Georgia-Florida line",
+                    "value": 400
+                },
+                {
+                    "answer": "Great Dismal",
+                    "question": "Lake Drummond is the center of this swamp, less than 20 miles away from us",
+                    "value": 600
+                },
+                {
+                    "answer": "Atchafalaya",
+                    "question": "I-10 crosses this Louisiana basin on an 18-mile bridge",
+                    "value": 800
+                },
+                {
+                    "answer": "Russian Federation",
+                    "question": "Larger than Switzerland, the Vasyugan Swamp is in this nation",
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "name": "IT'S ELEMENTAL",
+            "questions": [
+                {
+                    "answer": "Silicon Valley",
+                    "question": "California’s Santa Clara Valley is now often called this",
+                    "value": 200
+                },
+                {
+                    "answer": "Carbondale",
+                    "question": "This Southern Illinois college town is named for one of the body’s most abundant element",
+                    "value": 400
+                },
+                {
+                    "answer": "Argentina",
+                    "question": "The symbol for silver can be seen in the name of this South American nation",
+                    "value": 600
+                },
+                {
+                    "answer": "Sulphur",
+                    "question": "This East Texas river is named for the element with atomic number 16",
+                    "value": 800
+                },
+                {
+                    "answer": "Francium",
+                    "question": "Atomic number 87, it’s named for the country where it was discovered by Marguerite Perey in 1939",
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "name": "NAVAL BASES",
+            "questions": [
+                {
+                    "answer": "What is Modern Warfare 2?",
+                    "question": "CONTRARY TO REPORTS, THIS 2009 INFINITY WARD SHOOTER WAS NOT BANNED IN RUSSIA - BUT THE AIRPORT LEVEL WAS REMOVED",
+                    "value": 200
+                },
+                {
+                    "answer": "What is Assassin's Creed III?",
+                    "question": "DESMOND EXPERIENCES THE MEMORIES OF CONNOR IN THIS REVOLUTIONARY TITLE FROM UBISOFT",
+                    "value": 400
+                },
+                {
+                    "answer": "Who is Jimmy Olson?",
+                    "question": "AS \"SUPERMAN'S PAL,\" THIS DC COMICS PHOTOJOURNALIST HAD HIS OWN COMIC FROM 1954 TO 1974",
+                    "value": 600
+                },
+                {
+                    "answer": "What is Adventure Time?",
+                    "question": "THE 3DS GAME BASED ON THIS ANIMATED SERIES IS SUBTITLED \"HEY ICE KING! WHY'D YOU STEAL OUR GARBAGE?!\"",
+                    "value": 800,
+                    "daily-double": true
+                },
+                {
+                    "answer": "What is Pac-Man Fever?",
+                    "question": "OTHER SONGS ON THIS BUCKNER & GARCIA ALBUM INCLUDE \"ODE TO A CENTIPEDE\" AND \"DO THE DONKEY KONG\"",
+                    "value": 1000
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "answer": "The Danube: Vienna, Bratislava, Budapest, and Belgrade",
+        "category": "RIVERS & CAPITALS",
+        "question": "Four European capital cities are located on this river"
+    },
+    "jeopardy": [
+        {
+            "name": "TIDEWATER",
+            "questions": [
+                {
+                    "answer": "The Tide",
+                    "question": "This light rail line has 11 stations in Norfolk",
+                    "value": 100
+                },
+                {
+                    "answer": "Colonial Williamsburg",
+                    "question": "This living history museum includes some 500 reconstructed or restored buildings",
+                    "value": 200
+                },
+                {
+                    "answer": "Hampton Roads",
+                    "question": "The mouths of the Elizabeth River, Nansemond River, and James River form this water feature",
+                    "value": 300
+                },
+                {
+                    "answer": "Old Dominion University",
+                    "question": "It was established in 1930 as the Norfolk Division of the College of William & Mary",
+                    "value": 400
+                },
+                {
+                    "answer": "Virginia Beach",
+                    "question": "At 450,000, it’s the most populous city in Virginia",
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "name": "ROAD TUNNELS",
+            "questions": [
+                {
+                    "answer": "New Jersey",
+                    "question": "The Queens-Midtown and then the Lincoln take you from Long Island to this state    ",
+                    "value": 100
+                },
+                {
+                    "answer": "I-95",
+                    "question": "The Fort McHenry Tunnel carries this highway under Baltimore Harbor",
+                    "value": 200
+                },
+                {
+                    "answer": "Alameda",
+                    "question": "The Posey and Webster St. tubes connect Oakland to this island city",
+                    "value": 300
+                },
+                {
+                    "answer": "US 13",
+                    "question": "The Chesapeake Bay Bridge–Tunnel carries this US highway from Cape Charles to Virginia Beach",
+                    "value": 400
+                },
+                {
+                    "answer": "Norway",
+                    "question": "The 15-mile-long Laerdal Tunnel carries European Route E16 through this nation",
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "name": "WAR MEMORIALS",
+            "questions": [
+                {
+                    "answer": "Arc de Triomphe",
+                    "question": "12 avenues radiate from this Parisian monument",
+                    "value": 100
+                },
+                {
+                    "answer": "Whitehall",
+                    "question": "London’s Cenotaph stands in this road, a name synonymous with British government",
+                    "value": 200
+                },
+                {
+                    "answer": "Kansas City",
+                    "question": "This city’s Liberty Memorial museum in 2004 became the nation's official World War I Museum",
+                    "value": 300,
+                    "daily-double": true
+                },
+                {
+                    "answer": "San Francisco",
+                    "question": "This city’s War Memorial Opera House hosted the organizing meeting for the United Nations",
+                    "value": 400
+                },
+                {
+                    "answer": "Indianapolis",
+                    "question": "The Soldiers and Sailors Monument stands at Meridian and Market Streets in this capital city",
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "name": "IN FASHION",
+            "questions": [
+                {
+                    "answer": "Capri",
+                    "question": "Calf-length pants popularized by Audrey Hepburn were named for this Italian island",
+                    "value": 100
+                },
+                {
+                    "answer": "Bikini",
+                    "question": "In 1946, this swimsuit was named for an atoll in the news that week",
+                    "value": 200
+                },
+                {
+                    "answer": "Tuxedo",
+                    "question": "The American name for a tailless dinner jacket comes from this New York resort",
+                    "value": 300
+                },
+                {
+                    "answer": "Ecuador",
+                    "question": "Despite the name, most Panama hats are woven in this country",
+                    "value": 400
+                },
+                {
+                    "answer": "Homburg",
+                    "question": "Churchill, Eden, and Eisenhower wore a hat named for this German spa",
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "name": "RAILROAD MAPS",
+            "questions": [
+                {
+                    "answer": "Norfolk & Western",
+                    "image": "images/N&W.png",
+                    "question": "This famed coal-hauler reached tidewater near here",
+                    "value": 100
+                },
+                {
+                    "answer": "Florida East Coast ",
+                    "image": "images/fec4.jpg",
+                    "question": "This railway line built modern Florida",
+                    "value": 200
+                },
+                {
+                    "answer": "Trans-Siberian",
+                    "image": "images/trans_siberian_map.jpg",
+                    "question": "World's longest passenger route",
+                    "value": 300
+                },
+                {
+                    "answer": "Illinois Central",
+                    "image": "images/Ill Cent 1860 color.jpg",
+                    "question": "The original Y-shaped route converged on Centralia",
+                    "value": 400
+                },
+                {
+                    "answer": "Baltimore & Ohio",
+                    "image": "images/B&O.jpg",
+                    "question": "America's first railroad, the route of the Washingtonian",
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "name": "POTPOURRI",
+            "questions": [
+                {
+                    "answer": "eSwatini",
+                    "question": "It’s the new name for Swaziland",
+                    "value": 100
+                },
+                {
+                    "answer": "The Shetlands",
+                    "question": "These islands are not to be put in an inset box, says a new Scottish decree",
+                    "value": 200
+                },
+                {
+                    "answer": "iD",
+                    "question": "It’s the default in-browser editor for OpenStreetMap",
+                    "value": 300
+                },
+                {
+                    "answer": "Hainan",
+                    "question": "Largest island controlled by the People’s Republic of China",
+                    "value": 400
+                },
+                {
+                    "answer": "Calgary",
+                    "question": "City where the Bow River meets the Elbow River",
+                    "value": 500
+                }
+            ]
+        }
+    ]
+}
