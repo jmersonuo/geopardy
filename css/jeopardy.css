@@ -85,7 +85,7 @@ body {
 }
 
 .question-text {
-	font-family: "Minion Pro", "Palatino Linotype", Palatino, serif; /* fixed*/
+	font-family: "Minion Pro", "Palatino Linotype", "Palatino", serif; /* fixed*/
 	font-size: 300%;
 	text-align: center;
 	color: white;
@@ -100,11 +100,20 @@ body {
     object-fit: contain;
 }
 
-
 #game-load-logo-img{
     height: 65vh; 
     width: 90vw; 
     object-fit: contain;
+}
+
+#final-jeopardy-logo-img{
+    height: 65vh; 
+/*    width: 90vw; */
+    object-fit: contain;
+}
+
+#final-jeopardy-question{
+    height: 65vh; 
 }
 
 #daily-double-modal .modal-footer {
