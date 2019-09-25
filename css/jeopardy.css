@@ -70,6 +70,10 @@
 	color: white;
 }
 
+.modal-title{
+    padding-top: 0; /* overwrite inline default */
+}
+
 body {
 	background-color: navy;
 	color: white;
@@ -81,10 +85,11 @@ body {
 }
 
 .question-text {
-	font-family: "Minion Pro", Palatino Linotype", Palatino, serif;
-	font-size: 600%;
+	font-family: "Minion Pro", "Palatino Linotype", Palatino, serif; /* fixed*/
+	font-size: 300%;
 	text-align: center;
 	color: white;
+    padding-top: 0 !important; /* text above questions */
 }
 
 
@@ -161,10 +166,12 @@ body {
 	border-radius: 0;
 }
 
+/*
 #question-modal-body {
 	margin-left: 10%;
 	margin-right: 10%;
 }
+*/
 
 #end-round {
 	margin-right: 10px;
