@@ -89,7 +89,8 @@ body {
 	font-size: 300%;
 	text-align: center;
 	color: white;
-    padding-top: 0 !important; /* text above questions */
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 
@@ -167,7 +168,7 @@ body {
 }
 
 /*
-#question-modal-body {
+#question-modal-body { // moved to .question-text as padding
 	margin-left: 10%;
 	margin-right: 10%;
 }
