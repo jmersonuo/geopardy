@@ -1,3 +1,9 @@
+body {
+	background-color: navy;
+	color: white;
+    font-size: 1.5em; /* base font size */
+}
+
 #player-1-score-div {
 	text-align: right;
 }
@@ -45,7 +51,7 @@
 }
 
 .category-text {
-	font-size: 24px;
+	font-size: 2em;
 	font-family: "Minion Pro";
 	font-weight: bold;
 
@@ -61,8 +67,8 @@
 
 .question {
 	color: goldenrod;
-	font-size: 60px;
-	font-family: Impact;	
+	font-size: 5em;
+	font-family: "Minion Pro";	
 }
 
 .modal-content {
@@ -74,10 +80,6 @@
     padding-top: 0; /* overwrite inline default */
 }
 
-body {
-	background-color: navy;
-	color: white;
-}
 
 .panel-footer {
 	background-color: navy;
@@ -86,7 +88,7 @@ body {
 
 .question-text {
 	font-family: "Minion Pro", "Palatino Linotype", "Palatino", serif; /* fixed*/
-	font-size: 300%;
+	font-size: 3em;
 	text-align: center;
 	color: white;
     padding-left: 15%;
