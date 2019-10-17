@@ -93,9 +93,9 @@ $(function(){
         else {
             // Candidate for refactoring.
             $('#modal-answer-title').empty().text(currentBoard[category].name + ' - ' + value);
+            $('#question').empty().text(currentBoard[category].questions[question].question);
             if (questionImage){
-            	// image, so hide the question text
-            	$('#question').empty().hide();
+            	$('#question').addClass("question-image-text")
                 if (questionImage.startsWith("http")) {
                     srcPrefix = ''
                 }
@@ -105,9 +105,6 @@ $(function(){
                 $('#question-image').empty().append("<img src=" + srcPrefix + questionImage + "  class = 'question-image' >").show();
             }
             else {
-            	// no image add the question text
-            	$('#question').empty().show();
-            	$('#question').empty().text(currentBoard[category].questions[question].question);
                 $('#question-image').empty().hide();
             }
             $('#answer-text').text(answer).hide();
@@ -437,6 +434,7 @@ function handleAnswer(){
 
             $(tile).empty().append('&nbsp;<div class="clearfix"></div>').removeClass('unanswered').unbind().css('cursor','not-allowed');
             $('#question-modal').modal('hide');
+            $('#question').removeClass("question-image-text") // closing question, be sure the text is big again
 
         }
         updateScore();
@@ -453,6 +451,7 @@ function handleAnswer(){
             $(this).data('question') + '"]')[0];
         $(tile).empty().append('&nbsp;<div class="clearfix"></div>').removeClass('unanswered').unbind().css('cursor','not-allowed');
         $('#question-modal').modal('hide');
+        $('#question').removeClass("question-image-text") // closing question, be sure the text is big again
     });
 
     $('#timer-grid').unbind("click").click(function(e){

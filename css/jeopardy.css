@@ -95,6 +95,9 @@ body {
     padding-right: 15%;
 }
 
+.question-image-text {
+	font-size: 2em;
+}
 
 .question-image {
     height: 55vh; 
