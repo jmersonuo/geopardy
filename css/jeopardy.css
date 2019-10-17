@@ -97,6 +97,7 @@ body {
 
 .question-image-text {
 	font-size: 2em;
+	padding-top: 20px !important;
 }
 
 .question-image {
