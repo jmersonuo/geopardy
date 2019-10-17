@@ -93,8 +93,9 @@ $(function(){
         else {
             // Candidate for refactoring.
             $('#modal-answer-title').empty().text(currentBoard[category].name + ' - ' + value);
-            $('#question').empty().text(currentBoard[category].questions[question].question);
             if (questionImage){
+            	// image, so hide the question text
+            	$('#question').empty().hide();
                 if (questionImage.startsWith("http")) {
                     srcPrefix = ''
                 }
@@ -104,6 +105,9 @@ $(function(){
                 $('#question-image').empty().append("<img src=" + srcPrefix + questionImage + "  class = 'question-image' >").show();
             }
             else {
+            	// no image add the question text
+            	$('#question').empty().show();
+            	$('#question').empty().text(currentBoard[category].questions[question].question);
                 $('#question-image').empty().hide();
             }
             $('#answer-text').text(answer).hide();
