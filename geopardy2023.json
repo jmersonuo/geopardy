@@ -1,0 +1,497 @@
+{
+    "double-jeopardy": [
+  {
+    "name": "ON THE ROCKS",
+    "questions": [
+  {
+    "value": 200,
+    "question": "The New Chain of Rocks Bridge near St Louis carries this Interstate highway",
+    "answer": "I-270",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "The first railroad bridge across the Mississippi River was built at this location",
+    "answer": "Rock Island",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "Allegheny County's longest bridge is in this borough",
+    "answer": "McKees Rocks",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "US 15 crosses the Potomac at this location",
+    "answer": "Point of Rocks, MD",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "Our Lady of the Rocks is one of the two islets off the coast of Perast in this nation's Bay of Kotor",
+    "answer": "Montenegro",
+    "image": "",
+    "daily-double": ""
+  }
+]
+  },
+  {
+    "name": "RIVER BASINS",
+    "questions":[
+  {
+    "value": 200,
+    "question": "",
+    "answer": "Tagus",
+    "image": "images/riverBasins/Tagus_river_basin.jpeg",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "",
+    "answer": "Trinity",
+    "image": "images/riverBasins/Trinity_Watershed.png",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "",
+    "answer": "Zambezi",
+    "image": "images/riverBasins/Zambezi_river_basin-en.png",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "",
+    "answer": "Orinoco",
+    "image": "images/riverBasins/Orinoco_basin.jpg",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "",
+    "answer": "Sava",
+    "image": "images/riverBasins/Sava_basin.webp",
+    "daily-double": ""
+  }
+]
+  },
+  {
+    "name": "ATLAS PUBLISHERS",
+    "questions":[
+  {
+    "value": 200,
+    "question": "Every American station wagon seemingly had this company's road atlas under a seat",
+    "answer": "Rand McNally",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "State atlases from this company initially used feature separates from the USGS 1:100K series",
+    "answer": "DeLorme",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "The only world atlas updated annually, it's now in its 28th edition",
+    "answer": "Oxford",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "This publisher's first world atlas, edited by Melville Bell Grosvenor, appeared in 1963",
+    "answer": "National Geographic",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "This company commissioned Herbert Bayer to design its World Geo-Graphic Atlas",
+    "answer": "Container Corp. of America",
+    "image": "",
+    "daily-double": ""
+  }
+]
+  },
+  {
+    "name": "HILL DISTRICTS",
+    "questions":[
+  {
+    "value": 200,
+    "question": "Largest city in these hills is Rapid City",
+    "answer": "Black Hills",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "Counties in this region include Burnet, Crockett, Kerr & San Saba Counties",
+    "answer": "Texas Hill Country",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "This hilly region is home to the Univ of Idaho and Washington State Univ",
+    "answer": "Palouse",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "This region of mixed-grass prairie lies atop the Ogallala Aquifer",
+    "answer": "Sandhills",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "These Nova Scotia highlands are encircled by the Cabot Trail",
+    "answer": "Cape Breton",
+    "image": "",
+    "daily-double": ""
+  }
+]
+  },
+  {
+    "name": "THAT'S THE POINT!",
+    "questions":[
+  {
+    "value": 200,
+    "question": "It's the eastern tip of Long Island",
+    "answer": "Montauk Point",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "This venerable amusement park is where Sandusky meets Lake Erie",
+    "answer": "Cedar Point",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "It's the westernmost landform in the West Seattle district",
+    "answer": "Alki Point",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "Cabrillo National Monument is at the tip of this peninsula",
+    "answer": "Point Loma",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "Cape May Point overlooks the entrance to this bay",
+    "answer": "Delaware Bay",
+    "image": "",
+    "daily-double": ""
+  }
+]
+  },
+  {
+    "name": "NATIONS & AIRPORTS",
+    "questions":[
+  {
+    "value": 200,
+    "question": "FLL   DTW   TXK",
+    "answer": "USA",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "BER   CGN   MUC",
+    "answer": "Germany",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "NRT   HND   NGS",
+    "answer": "Japan",
+    "image": "",
+    "daily-double": "True"
+  },
+  {
+    "value": 800,
+    "question": "CUN   GDL   MTY",
+    "answer": "Mexico",
+    "image": "",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "DAR   ZNZ   DOD",
+    "answer": "Tanzania",
+    "image": "",
+    "daily-double": ""
+  }
+]
+  }
+],
+    "jeopardy": [
+      {
+        "name": "FUNICULARS",
+        "questions": [
+          {
+            "name": "",
+            "value": 100,
+            "question": "It takes you to a view of the Pittsburgh skyline from Mt Washington",
+            "image": "",
+            "answer": "Duquesne Incline",
+            "daily-double": ""
+          },
+          {
+            "name": "",
+            "value": 200,
+            "question": "The Montjuïc Funicular was reconstructed to serve the 1992 Olympics facilities in this city",
+            "image": "",
+            "answer": "Barcelona",
+            "daily-double": ""
+          },
+          {
+            "name": "",
+            "value": 300,
+            "question": "No longer a true funicular, it ascends this hill, to Sacre-Coeur Basilica",
+            "image": "",
+            "answer": "Montmartre",
+            "daily-double": ""
+          },
+          {
+            "name": "",
+            "value": 400,
+            "question": "The Fenelon Place Elevator offers views of three states from this city",
+            "image": "",
+            "answer": "Dubuque",
+            "daily-double": ""
+          },
+          {
+            "name": "",
+            "value": 500,
+            "question": "Penang Hill Railway is on the outskirts of this Malaysian city",
+            "image": "",
+            "answer": "George Town",
+            "daily-double": ""
+          }
+]
+      },
+      {
+        "name": "CITY OF BRIDGES",
+        "questions":[
+          {
+            "value": 100,
+            "question": "Williamsburg, Throg's Neck, Outerbridge",
+            "answer": "New York City",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 200,
+            "question": "Chain, Key, Wilson",
+            "answer": "Washington",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 300,
+            "question": "Cartier, Mercier, Victoria",
+            "answer": "Montreal",
+            "image": "",
+            "daily-double": "true"
+          },
+          {
+            "value": 400,
+            "question": "Bir-Hakeim, Alexandre III, Neuf",
+            "answer": "Paris",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 500,
+            "question": "Steel, St John's, Tilikum Crossing",
+            "answer": "Portland",
+            "image": "",
+            "daily-double": ""
+          }
+]
+      }, 
+      { "name":"THREE RIVERS",
+       "questions":[
+          {
+            "value": 100,
+            "question": "This nation's rivers include the Murray, Darling, Murrumbidgee",
+            "answer": "Australia",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 200,
+            "question": "The Milk, Marias, & Musselshell water this state",
+            "answer": "Montana",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 300,
+            "question": "The Smoky Hill, Soloman, & Big Blue run through this state",
+            "answer": "Kansas",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 400,
+            "question": "The Fleet, Tyburn, Westbourne are no longer visible from streets in this city",
+            "answer": "London",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 500,
+            "question": "The Red, Sulphur, and Little rivers converge in this tristate region with a portmanteau name",
+            "answer": "Ark-La-Tex",
+            "image": "",
+            "daily-double": ""
+          }
+        ]      
+      },
+      {
+        "name": "CITY LIMITS",
+        "questions": [
+          {
+            "value": 100,
+            "question":"",
+            "answer": "Baltimore",
+            "image": "images/cityLimits/Baltimore.png",
+            "daily-double": ""
+          },
+          {
+            "value": 200,
+            "question":"",
+            "answer": "Los Angeles",
+            "image": "images/cityLimits/LosAngeles.png",
+            "daily-double": ""
+          },
+          {
+            "value": 300,
+            "question":"",
+            "answer": "Atlanta",
+            "image": "images/cityLimits/Atlanta.png",
+            "daily-double": ""
+          },
+          {
+            "value": 400,
+            "question":"",
+            "answer": "Houston",
+            "image": "images/cityLimits/Houston.png",
+            "daily-double": ""
+          },
+          {
+            "value": 500,
+            "question":"",
+            "answer": "Denver",
+            "image": "images/cityLimits/Denver.png",
+            "daily-double": ""
+          }
+        ]
+      },
+      {
+         "name": "BLUE HIGHWAYS",
+         "questions":[
+          {
+            "value": 100,
+            "question": "Blue Springs, MO is traversed by this interstate",
+            "answer": "I-70",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 200,
+            "question": "At 469 miles, it's America's longest linear park",
+            "answer": "Blue Ridge Parkway",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 300,
+            "question": "The 1982 book Blue Highways takes its name from the symbolization of these on classic gas station maps",
+            "answer": "state highways",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 400,
+            "question": "Connecting Lexington with Elizabethtown, this parkway opened in 1965",
+            "answer": "Bluegrass",
+            "image": "",
+            "daily-double": ""
+          },
+          {
+            "value": 500,
+            "question": "You'll find this CDP on US 322 in Lancaster Co., PA",
+            "answer": "Blue Ball",
+            "image": "",
+            "daily-double": ""
+          }
+]
+       },
+      {
+          "name": "BLUE LINES",
+          "questions":[
+      {
+        "value": 100,
+        "question": "This city's Blue Line was historically known to locals as the Overbrook Line",
+        "answer": "Pittsburgh",
+        "image": "",
+        "daily-double": ""
+      },
+      {
+        "value": 200,
+        "question": "Riders on this city's Blue Line board at Temple Square, 900 South, and Historic Sandy",
+        "answer": "Salt Lake City",
+        "image": "",
+        "daily-double": ""
+      },
+      {
+        "value": 300,
+        "question": "The Blue Line in this city has two Harlem stations, and two Western stations",
+        "answer": "Chicago",
+        "image": "",
+        "daily-double": ""
+      },
+      {
+        "value": 400,
+        "question": "Called the Blue Line from 1990 - 2019, it connects these two downtowns",
+        "answer": "Los Angeles & Long Beach",
+        "image": "",
+        "daily-double": ""
+      },
+      {
+        "value": 500,
+        "question": "The Blue Line in this city stops at 69th St SW, Centre St, and Saddletowne",
+        "answer": "Calgary",
+        "image": "",
+        "daily-double": ""
+      }
+]
+      }
+     ],
+    "final-jeopardy": {
+        "answer": "General Drafting Co.",
+        "category": "PAPER MAP PUBLISHERS",
+        "question": "The phantom settlement of Agloe, N.Y., first appeared on road maps drawn by this company"
+            
+            
+    }
+}

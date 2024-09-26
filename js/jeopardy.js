@@ -1,3 +1,40 @@
+function balanceLinesNow(){
+    $('.balance_lines').each(function(){
+                
+        // get parent dimensions
+        var parentWidth = $('#question-modal-body').width();
+        var parentHeight = $('#question-modal-body').height();
+        
+        // resize question box to full width to start calcs over
+        $('#question').width(parentWidth-(parentWidth*0.3));
+        
+        // get question's initial dimensions
+        var currentHeight = $(this).height();
+        var thisHeight = currentHeight;
+        var currentWidth = $(this).width();
+        //console.log(currentWidth)
+        var newWidth = currentWidth;
+        // Try shrinking width until height changes
+        while (thisHeight == currentHeight && newWidth > 200) {
+            var testWidth = newWidth - 50;
+            $(this).width(testWidth);
+            thisHeight = $(this).height();
+            if (thisHeight == currentHeight) {
+                newWidth = testWidth;
+            } else {
+                break;
+            }
+        }
+        $(this).width(newWidth);
+        
+        var paddingTop = ((parentHeight-thisHeight)/2)
+//        console.log(paddingTop)
+        $('#question').css('padding-top', (parentHeight-thisHeight)/2)
+//        $('#question').paddingTop((parentHeight-thisHeight)/2);
+        $('#question').show() // reveal after its been resized
+    });
+}
+
 $(function(){
     $('#game-load-modal').modal('show');
     chooseTheme = Math.random() < 0.5;
@@ -75,6 +112,8 @@ $(function(){
     });
     $(document).on('click', '.unanswered', function(){
         //event bound to clicking on a tile. it grabs the data from the click event, populates the modal, fires the modal, and binds the answer method
+        $('#question').hide() // hide until after we do some resizing
+        
         var category = $(this).parent().data('category');
         var question = $(this).data('question');
         var answer = currentBoard[category].questions[question].answer;
@@ -95,7 +134,7 @@ $(function(){
             $('#modal-answer-title').empty().text(currentBoard[category].name + ' - ' + value);
             $('#question').empty().text(currentBoard[category].questions[question].question);
             if (questionImage){
-            	$('#question').addClass("question-image-text")
+            	$('#question').addClass("question-image-text") 
                 if (questionImage.startsWith("http")) {
                     srcPrefix = ''
                 }
@@ -103,12 +142,15 @@ $(function(){
                     srcPrefix = './'
                 }
                 $('#question-image').empty().append("<img src=" + srcPrefix + questionImage + "  class = 'question-image' >").show();
+//                $('#question').empty().hide(); // remove this line is question images have text
+                console.log("hide")
             }
             else {
                 $('#question-image').empty().hide();
             }
             $('#answer-text').text(answer).hide();
             $('#question-modal').modal('show');
+            $('#question').hide(); // remove this line is question images have text
             //resizeAnswerModal();
             //$('#answer-close-button').hide().data('question', question).data('category', category);
             $('#answer-close-button').data('question', question).data('category', category);
@@ -116,7 +158,8 @@ $(function(){
             $('#question-modal .score-button').data('value', value);
             $('#question-modal .score-button').prop('disabled', false);
             $('#question-modal .score-button.btn-success').data('question', question).data('category', category);
-
+        
+            
         }
         $('#daily-double-wager').click(function(){
             var inputDailyDoubleValue = $('#daily-double-wager-input').val();
@@ -249,7 +292,7 @@ function resetTimer() {
 
 function adjustScores(){
     $('#score-adjust-save').click(function(){
-        for (var i = 1; i < 4; i++) {
+        for (var i = 1; i < 5; i++) {
             var scoreVariableName = 'score_player_' + i;
             var inputName = '#score-player-' + i + '-input';
             var newScoreValue = $(inputName).val();
@@ -393,6 +436,8 @@ function loadBoard() {
 }
 
 function resizeAnswerModal() {
+    balanceLinesNow();
+    
     var otherHeights = ($('#question-modal-content .modal-header, #question-modal-content .modal-footer').map(function(){return $(this).outerHeight();}));
     var totalModalHeight = $('#question-modal-content').height();
     for(var i=0; i < otherHeights.length; i++) { totalModalHeight -= otherHeights[i]; }

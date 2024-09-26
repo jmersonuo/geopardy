@@ -35,6 +35,14 @@
   <script type="text/javascript" language="Javascript" src="./bootstrap-static/3.3.5/js/bootstrap.min.js"></script>
 
   <script type="text/javascript" language="Javascript" src="./js/jeopardy.js"></script>
+    
+    
+  <!--  Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!--<link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">-->
+    
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans&family=Fira+Sans+Extra+Condensed&display=swap" rel="stylesheet"> 
 
   <title>HTML Geopardy</title>
 </head>
@@ -47,19 +55,19 @@
 
     <div class="panel-footer">
       <div class="col-md-3" id="player-1-score-div">
-        <h4><span id="player-1-name">Red</span>: <span id="player-1-score">0</span></h4>
+        <h2><span id="player-1-name">Red</span>: <span id="player-1-score">0</span></h2>
       </div>
 
       <div class="col-md-3" id="player-2-score-div">
-        <h4><span id="player-2-name">Blue</span>: <span id="player-2-score">0</span></h4>
+        <h2><span id="player-2-name">Blue</span>: <span id="player-2-score">0</span></h2>
       </div>
 
       <div class="col-md-3" id="player-3-score-div">
-        <h4><span id="player-3-name">Green</span>: <span id="player-3-score">0</span></h4>
+        <h2><span id="player-3-name">Green</span>: <span id="player-3-score">0</span></h2>
       </div>
 
        <div class="col-md-3" id="player-4-score-div">
-        <h4><span id="player-4-name">Gold</span>: <span id="player-4-score">0</span></h4>
+        <h2><span id="player-4-name">Gold</span>: <span id="player-4-score">0</span></h2>
       </div>
 
       <div class="clearfix"></div>
@@ -91,7 +99,7 @@
         </div>
 
         <div class="modal-body" id="question-modal-body">
-          <p id="question" class="question-text text-center"></p>
+          <p id="question" class="question-text text-center balance_lines"></p>
 
           <div id="question-image" class="text-center"></div>
         </div>
@@ -177,19 +185,19 @@
 
         <div id="adjust-score-input-div" class="modal-body text-center">
           <div class="score-button-group col-md-3">
-            <input type="text" class="form-control" placeholder="Player 1 Score" id="score-player-1-input" />
+            Red Score<input type="text" class="form-control" placeholder="Red Score" id="score-player-1-input" />
           </div>
 
           <div class="score-button-group col-md-3">
-            <input type="text" class="form-control" placeholder="Player 2 Score" id="score-player-2-input" />
+            Blue Score<input type="text" class="form-control" placeholder="Blue Score" id="score-player-2-input" />
           </div>
 
           <div class="score-button-group col-md-3">
-            <input type="text" class="form-control" placeholder="Player 3 Score" id="score-player-3-input" />
+            Green Score<input type="text" class="form-control" placeholder="Green Score" id="score-player-3-input" />
           </div>
 
           <div class="score-button-group col-md-3">
-            <input type="text" class="form-control" placeholder="Player 4 Score" id="score-player-3-input" />
+            Gold Score<input type="text" class="form-control" placeholder="Gold Score" id="score-player-4-input" />
           </div>
 
           <div class="clearfix"></div>
@@ -200,30 +208,24 @@
         </div>
         <div id="adjust-control-input-div" class="modal-body text-center">
           <div class="control-button-group col-md-3">
-            <label class="radio-inline"><input type="radio" placeholder="Player 1 Control" id="control-player-1-input" 
+            <label class="radio-inline"><input type="radio" placeholder="Red Control" id="control-player-1-input" 
             name="control-input" value="1"/></label>
           </div>
 
           <div class="control-button-group col-md-3">
-            <label class="radio-inline"><input type="radio" placeholder="Player 2 Control" id="control-player-2-input" 
+            <label class="radio-inline"><input type="radio" placeholder="Blue 2 Control" id="control-player-2-input" 
             name="control-input" value="2"/></label>
           </div>
 
           <div class="control-button-group col-md-3">
-            <label class="radio-inline"><input type="radio" placeholder="Player 3 Control" id="control-player-3-input" 
+            <label class="radio-inline"><input type="radio" placeholder="Green 3 Control" id="control-player-3-input" 
             name="control-input" value="3"/></label>
           </div>
 
           <div class="control-button-group col-md-3">
-            <label class="radio-inline"><input type="radio" placeholder="Player 4 Control" id="control-player-4-input" 
+            <label class="radio-inline"><input type="radio" placeholder="Gold 4 Control" id="control-player-4-input" 
             name="control-input" value="4"/></label>
           </div>
-
-          <div class="control-button-group col-md-3">
-            <label class="radio-inline"><input type="radio" placeholder="Player 3 Control" id="control-player-3-input" 
-            name="control-input" value="3"/></label>
-          </div>
-
           <div class="clearfix"></div>
         </div>
 

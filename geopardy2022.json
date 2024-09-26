@@ -1,0 +1,503 @@
+{
+    "double-jeopardy": [
+  {
+    "name": "SHORT INTERSTATES",
+    "questions": 
+      [
+  {
+    "value": 200,
+    "question": "This two-digit route is entirely within Anne Arundel Co., Md.",
+    "image": "",
+    "answer": "I-97",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "So far, it only links Copperas Cove to Belton, Tex.",
+    "image": "",
+    "answer": "I-14",
+    "daily-double": true
+  },
+  {
+    "value": 600,
+    "question": "Runs 144 miles from Ellensburg, Wash. to Hermiston, Ore.",
+    "image": "",
+    "answer": "I-82",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "A portion of this interstate is the Custis Memorial Pkwy",
+    "image": "",
+    "answer": "I-66",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "It runs 47 miles through Texas’s Rio Grande Valley",
+    "image": "",
+    "answer": "I-2",
+    "daily-double": ""
+  }]
+  },
+  {
+    "name": "FORMER TRAIN STATIONS",
+    "questions": [
+        {
+    "value": 200,
+    "question": "This city’s Reading Terminal is now a convention center and market",
+    "image": "",
+    "answer": "Philadelphia",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "It now houses the world’s largest collection of Impressionist art",
+    "image": "",
+    "answer": "Musée d'Orsay",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "This recent NACIS convention city’s Union Station is now a federal courthouse",
+    "image": "",
+    "answer": "Tacoma",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "Science City, the Gottlieb Planetarium, & a theater now occupy this city’s Union Station",
+    "image": "",
+    "answer": "Kansas City",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "The Durham Museum occupies this city’s former Union Station",
+    "image": "",
+    "answer": "Omaha",
+    "daily-double": ""
+  }]
+  },
+  {
+    "name": "CENTRAL CITIES",
+    "questions": [
+  {
+    "value": 200,
+    "question": "",
+    "image": "images/Denver.png",
+    "answer": "Denver",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "",
+    "image": "images/Berlin.png",
+    "answer": "Seoul",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "",
+    "image": "images/Seoul.png",
+    "answer": "Berlin",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "",
+    "image": "images/Lima.png",
+    "answer": "Lima",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "",
+    "image": "images/Johannesburg.png",
+    "answer": "Johannesburg",
+    "daily-double": ""
+  }]
+  },
+  {
+    "name": "-POLISES",
+    "questions": [  
+        {
+    "value": 200,
+    "question": "Mile 866, the head of navigation on the Mississippi, is in this city",
+    "image": "",
+    "answer": "Minneapolis",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "These 2 -polises serve as state capitals",
+    "image": "",
+    "answer": "Indianapolis, Annapolis",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "A large bronze statue of Superman is in this Illinois city",
+    "image": "",
+    "answer": "Metropolis",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "Largest town in Hot Springs County, Wyo.",
+    "image": "",
+    "answer": "Thermopolis",
+    "daily-double": true
+  },
+  {
+    "value": 1000,
+    "question": "This Alabama city is at the confluence of the Black Warrior and Tombigbee rivers",
+    "image": "",
+    "answer": "Demopolis",
+    "daily-double": ""
+  }]
+  },
+  {
+    "name": "TRANSITIONS",
+    "questions": [
+        {
+    "value": 200,
+    "question": "They’re the successor to the Census Bureau’s DIME ﬁles",
+    "image": "",
+    "answer": "TIGER",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "Navteq’s online maps now use this name",
+    "image": "",
+    "answer": "HERE",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "ACSM’s American Cartographic Association is now this",
+    "image": "",
+    "answer": "CAGIS",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "Etak (later TeleAtlas) is now part of this company",
+    "image": "",
+    "answer": "Tom Tom",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "Intergraph is now part of this company",
+    "image": "",
+    "answer": "Hexagon",
+    "daily-double": ""
+  }]
+  },
+  {
+    "name": "SUSAN PESCHEL",
+    "questions": [  
+        {
+    "value": 200,
+    "question": "She works in a building named for this woman",
+    "image": "",
+    "answer": "Golda Meir",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "She uses the price of this fluid as an indicator of conference hotel costs",
+    "image": "",
+    "answer": "coffee",
+    "daily-double": ""
+  },
+  {
+    "value": 600,
+    "question": "NACIS’s executive director in the early 1990s, he roped Susan into more and more NACIS work",
+    "image": "",
+    "answer": "Chris Baruth",
+    "daily-double": ""
+  },
+  {
+    "value": 800,
+    "question": "Sona Andrews was NACIS treasurer prior to Susan; this man held the post afterwards",
+    "image": "",
+    "answer": "Gordon Kennedy",
+    "daily-double": ""
+  },
+  {
+    "value": 1000,
+    "question": "",
+    "image": "Chuck Norris hat.jpeg",
+    "answer": "",
+    "daily-double": ""
+  }]
+  }
+],
+    "jeopardy": [
+  {
+    "name": "TWIN CITIES",
+      "questions": [
+      {
+        "name": "",
+        "value": 100,
+        "question": "“Twice as Nice,” these conjoined cities have the same name in Ark. & Texas",
+        "image": "",
+        "answer": "Texarkana",
+        "daily-double": ""
+      },
+      {
+        "name": "",
+        "value": 200,
+        "question": "The St. Louis River divides these “Twin Ports”",
+        "image": "",
+        "answer": "Duluth, Superior",
+        "daily-double": ""
+      },
+      {
+        "name": "",
+        "value": 300,
+        "question": "I-19 ends where these twins straddle the Mexican border",
+        "image": "",
+        "answer": "Nogales",
+        "daily-double": ""
+      },
+      {
+        "name": "",
+        "value": 400,
+        "question": "These N.C. cities, combined in 1913, were both used as cigarette brands",
+        "image": "",
+        "answer": "Winston-Salem",
+        "daily-double": ""
+      },
+      {
+        "name": "",
+        "value": 500,
+        "question": "These Maine cities are sometimes called “Cities of the Androscoggin”",
+        "image": "",
+        "answer": "Lewiston-Auburn",
+        "daily-double": ""
+      }
+    ]
+  },
+   {"name": "SKYWAYS",
+     "questions":[
+  {
+    "name": "",
+    "value": 100,
+    "question": "",
+    "image": "images/Calgary15.jpg",
+    "answer": "Calgary",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 200,
+    "question": "",
+    "image": "images/Chicagopedway.jpg",
+    "answer": "Chicago",
+    "daily-double": ""
+  },
+  {
+    "value": 300,
+    "question": "",
+    "image": "images/MontrealRESO.jpg",
+    "answer": "Montreal",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "",
+    "image": "images/SaintPaul.jpg",
+    "answer": "St Paul",
+    "daily-double": ""
+  },
+  {
+    "value": 500,
+    "question": "",
+    "image": "images/Winnipeg.jpg",
+    "answer": "Winnipeg",
+    "daily-double": ""
+  }]
+   },
+  {
+  "name": "LAND OF LAKE",
+      "questions":[
+  {
+    "value": 100,
+    "question": "Lake Como is in this nation’s Lombardy region",
+    "image": "",
+    "answer": "Italy",
+    "daily-double": ""
+  },
+  {
+    "value": 200,
+    "question": "Assiniboine Lake is in this Canadian province",
+    "image": "",
+    "answer": "British Columbia",
+    "daily-double": ""
+  },
+  {
+    "value": 300,
+    "question": "Lake Burley Griffin is an artificial lake in the centre of this capital territory",
+    "image": "",
+    "answer": "ACT",
+    "daily-double": ""
+  },
+  {
+    "value": 400,
+    "question": "Called Bodensee in German, this lake borders Germany, Austria and Switzerland",
+    "image": "",
+    "answer": "Lake Constance",
+    "daily-double": ""
+  },
+  {
+    "value": 500,
+    "question": "Lake Turkana (formerly Lake Rudolf) is in this country",
+    "image": "",
+    "answer": "Kenya",
+    "daily-double": ""
+  }]
+  },
+        {
+    "name": "AIRPORT IN COMMON",
+    "questions": [
+  {
+    "name": "",
+    "value": 100,
+    "question": "It’s connected to one downtown by the Blue Line; to the other by the 54 bus",
+    "image": "",
+    "answer": "MSP",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 200,
+    "question": "Nice Côte d'Azur Airport also serves this adjacent city-state",
+    "image": "",
+    "answer": "Monaco",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 300,
+    "question": "The surrounding municipality in 1990 adopted the airport’s portmanteau name",
+    "image": "",
+    "answer": "Sea-Tac",
+    "daily-double": true
+  },
+  {
+    "name": "",
+    "value": 400,
+    "question": "Both Osaka and Kobe are served by this airport",
+    "image": "",
+    "answer": "Kansai",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 500,
+    "question": "CGN serves both Cologne and this former capital city",
+    "image": "",
+    "answer": "Bonn",
+    "daily-double": ""
+  }]
+        }, {
+      "name": "RIVER PORTS",
+      "questions":[
+  {
+    "name": "",
+    "value": 100,
+    "question": "Koblenz, Dusseldorf, Rotterdam",
+    "image": "",
+    "answer": "Rhine",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 200,
+    "question": "Chongqing, Wuhan, Nanjing",
+    "image": "",
+    "answer": "Yangtze",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 300,
+    "question": "Linz, Bratislava, Belgrade",
+    "image": "",
+    "answer": "Danube",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 400,
+    "question": "Novgorod, Samara, Astrakhan",
+    "image": "",
+    "answer": "Volga",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 500,
+    "question": "Kennewick, Umatilla, Vancouver",
+    "image": "",
+    "answer": "Columbia",
+    "daily-double": ""
+  }]
+        },{
+    "name": "TRAIN STATIONS",
+    "questions":[
+  {
+    "name": "",
+    "value": 100,
+    "question": "Amtrak trains arrive in Seattle at this station",
+    "image": "",
+    "answer": "King Street",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 200,
+    "question": "Eurostar trains leave from this London terminal",
+    "image": "",
+    "answer": "St Pancras",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 300,
+    "question": "It’s the world’s busiest—though you can’t board a Shinkansen there",
+    "image": "",
+    "answer": "Shinjuku",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 400,
+    "question": "Trains to Toronto depart this Montréal station",
+    "image": "",
+    "answer": "Gare Central",
+    "daily-double": ""
+  },
+  {
+    "name": "",
+    "value": 500,
+    "question": "Bangkok’s massive new train station will supplant this historic terminal",
+    "image": "",
+    "answer": "Hualumphong",
+    "daily-double": ""
+  }
+  ]
+        }
+        ],
+        "final-jeopardy": {
+        "answer": "Ecuador, Colombia, and Brazil",
+        "category": "COUNTRIES",
+        "question": "These three South American countries lie on the equator"
+            
+            
+    }
+}
