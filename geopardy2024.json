@@ -1,0 +1,390 @@
+{
+    "double-jeopardy":[
+    {  
+        "name": "WATER ON BOTH SIDES",
+        "questions": [
+            {
+                "value": 200,
+                "question": "Lake Washington, Puget Sound",
+                "answer": "What is Seattle?"
+            },
+            {
+                "value": 400,
+                "question": "Saronic Gulf, Gulf of Corinth",
+                "answer": "What is the Isthmus of Corinth?"
+            },
+            {
+                "value": 600,
+                "question": "Red Sea, Mediterranean Sea",
+                "answer": "What is the Isthmus of Suez?"
+            },
+            {
+                "value": 800,
+                "question": "Gulf of Mexico, Pacific Ocean",
+                "answer": "What is the Isthmus of Tehuantepec?"
+            },
+            {
+                "value": 1000,
+                "question": "Andaman Sea, Gulf of Thailand",
+                "answer": "What is the Kra Isthmus?"
+            }
+        ]
+    },
+    {
+        "name": "BEHIND THE LETTERS",
+    "questions": [
+        {
+            "value": 200,
+            "question": "A collegial gathering of map nerds, commonly known as NACIS.",
+            "answer": "What is the North American Cartographic Information Society?"
+        },
+        {
+            "value": 400,
+            "question": "GIS giant Esri was originally founded in 1969 under this name.",
+            "answer": "What is the Environmental Systems Research Institute?"
+        },
+        {
+            "value": 600,
+            "question": "This February 2000 radar mapping effort yielded the SRTM elevation model.",
+            "answer": "What is the Shuttle Radar Topography Mission?"
+        },
+        {
+            "value": 800,
+            "question": "While a staple of GIS data transfer, the TIFF format was originally designed for desktop scanners.",
+            "answer": "What is the Tagged Image File Format?"
+        },
+        {
+            "value": 1000,
+            "question": "In 1985, this oil industry forum created a series of EPSG codes to identify map projections.",
+            "answer": "What is the European Petroleum Survey Group?"
+        }
+        ]
+        
+    },
+    {
+        "name": "TRIPLETS",
+    "questions": [
+        {
+            "value": 200,
+            "question": "A popular name used for geologic features the world round may refer to a trio of 1) peaks near Canmore, Alberta, 2) spires in Monument Valley Arizona, 3) volcanic peaks in Oregon, or 4) multiple mountain ranges in California.",
+            "answer": "What are the Three Sisters?"
+        },
+        {
+            "value": 400,
+            "question": "These three cities in Eastern Washington comprise the core of the Tri-Cities area. [Name all three]",
+            "answer": "What are Pasco, Richland, and Kennewick?"
+        },
+        {
+            "value": 600,
+            "question": "The name of Libya's capital, derived from the Ancient Greek for 'three cities.'",
+            "answer": "What is Tripoli?"
+        },
+        {
+            "value": 800,
+            "question": "Trois-Rivières, Quebec was named for the three mouths of this river.",
+            "answer": "What is the Saint-Maurice?"
+        },
+        {
+            "value": 1000,
+            "question": "This period of Chinese history was named for the dynastic states of Cao Wei, Shu Han, and Eastern Wu.",
+            "answer": "What is the Three Kingdoms?"
+        }
+    ]
+    },
+    {
+        "name": "ONE LAST TOUR OF CHI-TOWN",
+        "questions":[
+    {
+        "value": 200,
+        "question": "After a controversial renovation, this neoclassical sports colosseum with Doric columns was delisted as a historic landmark in 2004.",
+        "answer": "What is Soldier Field?"
+    },
+    {
+        "value": 400,
+        "question": "This Art Deco skyscraper is topped by a 3-story aluminum statue of Ceres.",
+        "answer": "What is the Chicago Board of Trade Building?"
+    },
+    {
+        "value": 600,
+        "question": "Ornamented with quotes about freedom of the press, this Gothic Revival skyscraper was completed in 1925.",
+        "answer": "What is Tribune Tower?"
+    },
+    {
+        "value": 800,
+        "question": "Clad in green, black, and gold and resembling a champagne bottle, this building is capped with gold foil.",
+        "answer": "What is the Carbide & Carbon Building?"
+    },
+    {
+        "value": 1000,
+        "question": "This structure's six shades of white terra cotta cladding were inspired by the 1893 Columbian Exposition.",
+        "answer": "What is the Wrigley Building?"
+    }
+]
+
+    },
+    {
+
+        "name": "BIGFOOT'S PALS",
+        "questions": [
+            {
+                "value": 200,
+                "question": "Normally a resident of West Virginia, this insect cryptid was seen first seen in Chicago in 2017",
+                "answer": "What is Mothman?"
+            },
+            {
+                "value": 400,
+                "question": "This cephalopod lives in the ruins of 'Galloping Gertie' under the Tacoma Narrows Bridge.",
+                "answer": "What is 'King Octopus'?"
+            },
+            {
+                "value": 600,
+                "question": "This Puget Sound sea serpent is also sometimes found near the University of Victoria",
+                "answer": "What is Cadborosaurus?"
+            },
+            {
+                "value": 800,
+                "question": "Sightings of this cryptid first were reported after Mt. St. Helens erupted in 1980",
+                "answer": "What is Batsquatch?"
+            },
+            {
+                "value": 1000,
+                "question": "Bigfoot's cousin from the greater Texarkana, Arkansas area",
+                "answer": "What is the Fouke Monster, Boggy Creek Monster or the Swamp Stalker?"
+            }
+        ]
+    },
+    {
+    "name": "WORLD ATLASES",
+    "questions": [
+        {
+            "value": 200,
+            "question": "First published in 1895, the 10th edition (1999) was the first of this title to be produced from digital data",
+            "answer": "What is the Times World Atlas (or Times Atlas of the World)?",
+            "image": "images/Times.JPG"
+        },
+        {
+            "value": 400,
+            "question": "45 years after producing its first map, the year the National Geographic Society published its first world atlas",
+            "answer": "When is 1963?",
+            "image": "images/NGS.JPG"
+        },
+        {
+            "value": 600,
+            "question": "The creator of this atlas spoke at the 1908 meeting of the AAG about creating an alternative to the \"evil Mercator\"",
+            "answer": "Who is John Paul Goode?",
+            "image": "images/Goodes.JPG"
+        },
+        {
+            "value": 800,
+            "question": "The 6th edition of this atlas, edited by Petermann, Berghaus and Vogel, made it a leading world atlas of the late 19th and early 20th centuries",
+            "answer": "What is Stieler's Handatlas (or Hand-Atlas über alle Theile der Erde und über das Weltgebäude)?",
+            "image": "images/Stielers.JPG"
+        },
+        {
+            "value": 1000,
+            "question": "The creator of this atlas was trained as a globemaker, which might have influenced his view of the world",
+            "answer": "Who is (Philippe) Vandermaelen?",
+            "image": "images/Vandermaelen.jpg"
+        }
+    ]
+}
+
+],
+"jeopardy":[
+     {
+        "name": "LAND ON BOTH SIDES",
+        "questions": [
+            {
+                "value": 100,
+                "question": "Iberian Peninsula, North Africa",
+                "answer": "What is the Strait of Gibraltar?"
+            },
+            {
+                "value": 200,
+                "question": "Arabian Peninsula, Horn of Africa",
+                "answer": "What is the Bab-el-Mandeb?"
+            },
+            {
+                "value": 300,
+                "question": "Malay Peninsula, Sumatra",
+                "answer": "What is the Strait of Malacca?"
+            },
+            {
+                "value": 400,
+                "question": "Upper Peninsula, Lower Peninsula",
+                "answer": "What are the Straits of Mackinac?"
+            },
+            {
+                "value": 500,
+                "question": "Jutland Peninsula, Norway",
+                "answer": "What is the Skagerrak?"
+            }
+        ]
+    },   
+    {
+        "name": "THE OTHER ONE",
+        "questions": [
+            {
+                "value": 100,
+                "question": "The Queens-Midtown and then the Lincoln take you from Long Island to this state",
+                "answer": "New Jersey"
+            },
+            {
+                "value": 200,
+                "question": "The Fort McHenry Tunnel carries this highway under Baltimore Harbor",
+                "answer": "I-95"
+            },
+            {
+                "value": 300,
+                "question": "The Posey and Webster St. tubes connect Oakland to this island city",
+                "answer": "Alameda"
+            },
+            {
+                "value": 400,
+                "question": "The Chesapeake Bay Bridge–Tunnel carries this US highway from Cape Charles to Virginia Beach",
+                "answer": "US 13"
+            },
+            {
+                "value": 500,
+                "question": "The 15-mile-long Laerdal Tunnel carries European Route E16 through this nation",
+                "answer": "Norway"
+            }
+        ]
+    },    
+    {
+        "name": "SECONDS",
+        "questions": [
+            {
+                "value": 100,
+                "question": "12 avenues radiate from this Parisian monument",
+                "answer": "Arc de Triomphe"
+            },
+            {
+                "value": 200,
+                "question": "London’s Cenotaph stands in this road, a name synonymous with British government",
+                "answer": "Whitehall"
+            },
+            {
+                "value": 300,
+                "question": "This city’s Liberty Memorial museum in 2004 became the nation's official World War I Museum",
+                "answer": "Kansas City"
+            },
+            {
+                "value": 400,
+                "question": "This city’s War Memorial Opera House hosted the organizing meeting for the United Nations",
+                "answer": "San Francisco"
+            },
+            {
+                "value": 500,
+                "question": "The Soldiers and Sailors Monument stands at Meridian and Market Streets in this capital city",
+                "answer": "Indianapolis"
+            }
+        ]
+    },    
+        
+    {
+        "name": "LOCAL NAMES",
+        "questions": [
+            {
+                "value": 100,
+                "question": "Calf-length pants popularized by Audrey Hepburn were named for this Italian island",
+                "answer": "Capri"
+            },
+            {
+                "value": 200,
+                "question": "In 1946, this swimsuit was named for an atoll in the news that week",
+                "answer": "Bikini"
+            },
+            {
+                "value": 300,
+                "question": "The American name for a tailless dinner jacket comes from this New York resort",
+                "answer": "Tuxedo"
+            },
+            {
+                "value": 400,
+                "question": "Despite the name, most Panama hats are woven in this country",
+                "answer": "Ecuador"
+            },
+            {
+                "value": 500,
+                "question": "Churchill, Eden, and Eisenhower wore a hat named for this German spa",
+                "answer": "Homburg"
+            }
+        ]
+    },
+    {
+        "name": "ICONIC SOFTWARE",
+        "questions": [
+            {
+                "value": 100,
+                "question": "",
+                "answer": "What is ArcPro?",
+                "image": "images/ArcPro.jpg"
+            },
+            {
+                "value": 200,
+                "question": "",
+                "answer": "What is QGIS?",
+                "image": "images/QGIS.jpg"
+            },
+            {
+                "value": 300,
+                "question": "",
+                "answer": "What is Photoshop?",
+                "image": "images/Photoshop.jpg"
+            },
+            {
+                "value": 400,
+                "question": "",
+                "answer": "What is Eduard?",
+                "image": "images/Eduard.jpg"
+            },
+            {
+                "value": 500,
+                "question": "",
+                "answer": "What is Felt?",
+                "image": "images/Felt.jpg"
+            }
+        ]
+    },
+    {
+
+        "name": "BORDER COUNT",
+        "questions": [
+            {
+                "value": 100,
+                "question": "placeholder",
+                "answer": "eSwatini"
+            },
+            {
+                "value": 200,
+                "question": "These islands are not to be put in an inset box, says a new Scottish decree",
+                "answer": "The Shetlands"
+            },
+            {
+                "value": 300,
+                "question": "It’s the default in-browser editor for OpenStreetMap",
+                "answer": "iD"
+            },
+            {
+                "value": 400,
+                "question": "Largest island controlled by the People’s Republic of China",
+                "answer": "Hainan",
+                "dailyDouble": true
+            },
+            {
+                "value": 500,
+                "question": "City where the Bow River meets the Elbow River",
+                "answer": "Calgary"
+            }
+        ]
+    }
+],
+    "final-jeopardy": {
+        "answer": "General Drafting Co.",
+        "category": "PAPER MAP PUBLISHERS",
+        "question": "The phantom settlement of Agloe, N.Y., first appeared on road maps drawn by this company"
+            
+            
+    }
+}
