@@ -224,93 +224,96 @@
     {
         "name": "THE OTHER ONE",
         "questions": [
-            {
-                "value": 100,
-                "question": "The Queens-Midtown and then the Lincoln take you from Long Island to this state",
-                "answer": "New Jersey"
-            },
-            {
-                "value": 200,
-                "question": "The Fort McHenry Tunnel carries this highway under Baltimore Harbor",
-                "answer": "I-95"
-            },
-            {
-                "value": 300,
-                "question": "The Posey and Webster St. tubes connect Oakland to this island city",
-                "answer": "Alameda"
-            },
-            {
-                "value": 400,
-                "question": "The Chesapeake Bay Bridge–Tunnel carries this US highway from Cape Charles to Virginia Beach",
-                "answer": "US 13"
-            },
-            {
-                "value": 500,
-                "question": "The 15-mile-long Laerdal Tunnel carries European Route E16 through this nation",
-                "answer": "Norway"
-            }
-        ]
+    {
+        "value": 100,
+        "question": "This nation gained its most recent independence in 1991, over two centuries after the US State.",
+        "answer": "What is Georgia?"
+    },
+    {
+        "value": 200,
+        "question": "After its capture this summer, this Ukrainian city drew attention for sharing the name of an American metropolis.",
+        "answer": "What is Niu-York?"
+    },
+    {
+        "value": 300,
+        "question": "This city sits about 10,000 km away from its namesake, at the confluence of the Ohio and Mississippi Rivers.",
+        "answer": "What is Cairo, Illinois?"
+    },
+    {
+        "value": 400,
+        "question": "Perhaps less well known than its famed western counterpart, this is nonetheless the longest river entirely within the state of Texas.",
+        "answer": "What is the Colorado River?"
+    },
+    {
+        "value": 500,
+        "question": "About 5% of the length of its more famous American counterpart, this 200-km tributary of the Ottawa River flows through eastern Ontario.",
+        "answer": "What is the Mississippi River?"
+    }
+]
+
     },    
     {
         "name": "SECONDS",
-        "questions": [
-            {
-                "value": 100,
-                "question": "12 avenues radiate from this Parisian monument",
-                "answer": "Arc de Triomphe"
-            },
-            {
-                "value": 200,
-                "question": "London’s Cenotaph stands in this road, a name synonymous with British government",
-                "answer": "Whitehall"
-            },
-            {
-                "value": 300,
-                "question": "This city’s Liberty Memorial museum in 2004 became the nation's official World War I Museum",
-                "answer": "Kansas City"
-            },
-            {
-                "value": 400,
-                "question": "This city’s War Memorial Opera House hosted the organizing meeting for the United Nations",
-                "answer": "San Francisco"
-            },
-            {
-                "value": 500,
-                "question": "The Soldiers and Sailors Monument stands at Meridian and Market Streets in this capital city",
-                "answer": "Indianapolis"
-            }
-        ]
+        "questions":[
+    {
+        "value": 100,
+        "question": "Located in this country, Aconcagua is the second highest mountain in the world, measured by prominence.",
+        "answer": "What is Argentina?"
+    },
+    {
+        "value": 200,
+        "question": "An arcsecond is this fraction of a degree.",
+        "answer": "What is 1/3600?"
+    },
+    {
+        "value": 300,
+        "question": "The second-most populous city named \"Texarkana\" in the United States is in this state.",
+        "answer": "What is Arkansas?"
+    },
+    {
+        "value": 400,
+        "question": "The second (1981) NACIS Annual Meeting was held in this city, approximately 215 miles southeast of the location of the 2025 Annual Meeting.",
+        "answer": "What is Gatlinburg, TN?"
+    },
+    {
+        "value": 500,
+        "question": "This is the name of Moldova's second largest city, a literal translation of the Romanian word for \"puddles\".",
+        "answer": "What is Bălți?"
+    }
+]
+
     },    
         
     {
         "name": "LOCAL NAMES",
         "questions": [
-            {
-                "value": 100,
-                "question": "Calf-length pants popularized by Audrey Hepburn were named for this Italian island",
-                "answer": "Capri"
-            },
-            {
-                "value": 200,
-                "question": "In 1946, this swimsuit was named for an atoll in the news that week",
-                "answer": "Bikini"
-            },
-            {
-                "value": 300,
-                "question": "The American name for a tailless dinner jacket comes from this New York resort",
-                "answer": "Tuxedo"
-            },
-            {
-                "value": 400,
-                "question": "Despite the name, most Panama hats are woven in this country",
-                "answer": "Ecuador"
-            },
-            {
-                "value": 500,
-                "question": "Churchill, Eden, and Eisenhower wore a hat named for this German spa",
-                "answer": "Homburg"
-            }
-        ]
+    {
+        "value": 100,
+        "question": "Called teqwu?be? (pronounced Tacoma), meaning mother of waters, in Lushootseed",
+        "answer": "What is Mt. Rainier?"
+    },
+    {
+        "value": 200,
+        "question": "Called Pahto by the Yakima people",
+        "answer": "What is Mt. Adams?"
+    },
+    {
+        "value": 300,
+        "question": "Called Lawetla'la or Loowit, meaning one from whom smoke comes, by the Cowlitz people",
+        "answer": "What is Mt. St. Helens?"
+    },
+    {
+        "value": 400,
+        "question": "Although many sources indicate that Wy'est is this peak's indigenous name, the name appears to be completely fictional.",
+        "answer": "What is Mt. Hood?"
+    },
+    {
+        "value": 500,
+        "question": "In his 1923 *Origin of Washington Place Names*, George Meany perpetuated an erroneous 1895 claim that the Duwamish called this mountain range \"Sun-a-do.\"",
+        "answer": "What are the Olympic Mountains?"
+    }
+]
+
     },
     {
         "name": "ICONIC SOFTWARE",
@@ -350,34 +353,34 @@
     {
 
         "name": "BORDER COUNT",
-        "questions": [
-            {
-                "value": 100,
-                "question": "placeholder",
-                "answer": "eSwatini"
-            },
-            {
-                "value": 200,
-                "question": "These islands are not to be put in an inset box, says a new Scottish decree",
-                "answer": "The Shetlands"
-            },
-            {
-                "value": 300,
-                "question": "It’s the default in-browser editor for OpenStreetMap",
-                "answer": "iD"
-            },
-            {
-                "value": 400,
-                "question": "Largest island controlled by the People’s Republic of China",
-                "answer": "Hainan",
-                "dailyDouble": true
-            },
-            {
-                "value": 500,
-                "question": "City where the Bow River meets the Elbow River",
-                "answer": "Calgary"
-            }
-        ]
+        "questions":[
+    {
+        "value": 100,
+        "question": "This African country is surrounded by the Atlantic Ocean one side and Senegal on three others.",
+        "answer": "What is The Gambia?"
+    },
+    {
+        "value": 200,
+        "question": "This nation, though the world's second largest by total area, shares land borders with only two others.",
+        "answer": "What is Canada?"
+    },
+    {
+        "value": 300,
+        "question": "With ten borders, this South American country has the most on the continent, including ones with Argentina and Venezuela.",
+        "answer": "What is Brazil?"
+    },
+    {
+        "value": 400,
+        "question": "This country, which touches the Baltic Sea, has seven neighbors, including Germany, Slovakia, and Ukraine.",
+        "answer": "What is Poland?"
+    },
+    {
+        "value": 500,
+        "question": "This landlocked Central Asian country shares borders with four nations: China, Kazakhstan, Uzbekistan, and Tajikistan.",
+        "answer": "What is Kyrgyzstan?"
+    }
+]
+
     }
 ],
     "final-jeopardy": {
