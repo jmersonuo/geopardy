@@ -289,7 +289,7 @@
         "questions": [
     {
         "value": 100,
-        "question": "Called teqwu?be? (pronounced Tacoma), meaning mother of waters, in Lushootseed",
+        "question": "Called təqʷuʔmə (pronounced Tacoma), meaning mother of waters, in Lushootseed",
         "answer": "What is Mt. Rainier?"
     },
     {
@@ -356,7 +356,7 @@
         "questions":[
     {
         "value": 100,
-        "question": "This African country is surrounded by the Atlantic Ocean one side and Senegal on three others.",
+        "question": "This African country is surrounded by the Atlantic Ocean on one side and Senegal on three others.",
         "answer": "What is The Gambia?"
     },
     {
@@ -384,9 +384,9 @@
     }
 ],
     "final-jeopardy": {
-        "answer": "General Drafting Co.",
-        "category": "PAPER MAP PUBLISHERS",
-        "question": "The phantom settlement of Agloe, N.Y., first appeared on road maps drawn by this company"
+        "answer": "What is Kentucky?",
+        "category": "NAME THE STATE",
+        "question": "Dennis's favorite whiskey, Woodford Reserve, is from this state, which happens to have more miles of running water than any other state except Alaska."
             
             
     }
