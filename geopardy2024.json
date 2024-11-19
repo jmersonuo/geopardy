@@ -1,0 +1,393 @@
+{
+    "double-jeopardy":[
+    {  
+        "name": "WATER ON BOTH SIDES",
+        "questions": [
+            {
+                "value": 200,
+                "question": "Lake Washington, Puget Sound",
+                "answer": "What is Seattle?"
+            },
+            {
+                "value": 400,
+                "question": "Saronic Gulf, Gulf of Corinth",
+                "answer": "What is the Isthmus of Corinth?"
+            },
+            {
+                "value": 600,
+                "question": "Red Sea, Mediterranean Sea",
+                "answer": "What is the Isthmus of Suez?"
+            },
+            {
+                "value": 800,
+                "question": "Gulf of Mexico, Pacific Ocean",
+                "answer": "What is the Isthmus of Tehuantepec?"
+            },
+            {
+                "value": 1000,
+                "question": "Andaman Sea, Gulf of Thailand",
+                "answer": "What is the Kra Isthmus?"
+            }
+        ]
+    },
+    {
+        "name": "BEHIND THE LETTERS",
+    "questions": [
+        {
+            "value": 200,
+            "question": "A collegial gathering of map nerds, commonly known as NACIS.",
+            "answer": "What is the North American Cartographic Information Society?"
+        },
+        {
+            "value": 400,
+            "question": "GIS giant Esri was originally founded in 1969 under this name.",
+            "answer": "What is the Environmental Systems Research Institute?"
+        },
+        {
+            "value": 600,
+            "question": "This February 2000 radar mapping effort yielded the SRTM elevation model.",
+            "answer": "What is the Shuttle Radar Topography Mission?"
+        },
+        {
+            "value": 800,
+            "question": "While a staple of GIS data transfer, the TIFF format was originally designed for desktop scanners.",
+            "answer": "What is the Tagged Image File Format?"
+        },
+        {
+            "value": 1000,
+            "question": "In 1985, this oil industry forum created a series of EPSG codes to identify map projections.",
+            "answer": "What is the European Petroleum Survey Group?"
+        }
+        ]
+        
+    },
+    {
+        "name": "TRIPLETS",
+    "questions": [
+        {
+            "value": 200,
+            "question": "A popular name used for geologic features the world round may refer to a trio of 1) peaks near Canmore, Alberta, 2) spires in Monument Valley Arizona, 3) volcanic peaks in Oregon, or 4) multiple mountain ranges in California.",
+            "answer": "What are the Three Sisters?"
+        },
+        {
+            "value": 400,
+            "question": "These three cities in Eastern Washington comprise the core of the Tri-Cities area. [Name all three]",
+            "answer": "What are Pasco, Richland, and Kennewick?"
+        },
+        {
+            "value": 600,
+            "question": "The name of Libya's capital, derived from the Ancient Greek for 'three cities.'",
+            "answer": "What is Tripoli?"
+        },
+        {
+            "value": 800,
+            "question": "Trois-Rivières, Quebec was named for the three mouths of this river.",
+            "answer": "What is the Saint-Maurice?"
+        },
+        {
+            "value": 1000,
+            "question": "This period of Chinese history was named for the dynastic states of Cao Wei, Shu Han, and Eastern Wu.",
+            "answer": "What is the Three Kingdoms?"
+        }
+    ]
+    },
+    {
+        "name": "ONE LAST TOUR OF CHI-TOWN",
+        "questions":[
+    {
+        "value": 200,
+        "question": "After a controversial renovation, this neoclassical sports colosseum with Doric columns was delisted as a historic landmark in 2004.",
+        "answer": "What is Soldier Field?"
+    },
+    {
+        "value": 400,
+        "question": "This Art Deco skyscraper is topped by a 3-story aluminum statue of Ceres.",
+        "answer": "What is the Chicago Board of Trade Building?"
+    },
+    {
+        "value": 600,
+        "question": "Ornamented with quotes about freedom of the press, this Gothic Revival skyscraper was completed in 1925.",
+        "answer": "What is Tribune Tower?"
+    },
+    {
+        "value": 800,
+        "question": "Clad in green, black, and gold and resembling a champagne bottle, this building is capped with gold foil.",
+        "answer": "What is the Carbide & Carbon Building?"
+    },
+    {
+        "value": 1000,
+        "question": "This structure's six shades of white terra cotta cladding were inspired by the 1893 Columbian Exposition.",
+        "answer": "What is the Wrigley Building?"
+    }
+]
+
+    },
+    {
+
+        "name": "BIGFOOT'S PALS",
+        "questions": [
+            {
+                "value": 200,
+                "question": "Normally a resident of West Virginia, this insect cryptid was seen first seen in Chicago in 2017",
+                "answer": "What is Mothman?"
+            },
+            {
+                "value": 400,
+                "question": "This cephalopod lives in the ruins of 'Galloping Gertie' under the Tacoma Narrows Bridge.",
+                "answer": "What is 'King Octopus'?"
+            },
+            {
+                "value": 600,
+                "question": "This Puget Sound sea serpent is also sometimes found near the University of Victoria",
+                "answer": "What is Cadborosaurus?"
+            },
+            {
+                "value": 800,
+                "question": "Sightings of this cryptid first were reported after Mt. St. Helens erupted in 1980",
+                "answer": "What is Batsquatch?"
+            },
+            {
+                "value": 1000,
+                "question": "Bigfoot's cousin from the greater Texarkana, Arkansas area",
+                "answer": "What is the Fouke Monster, Boggy Creek Monster or the Swamp Stalker?"
+            }
+        ]
+    },
+    {
+    "name": "WORLD ATLASES",
+    "questions": [
+        {
+            "value": 200,
+            "question": "First published in 1895, the 10th edition (1999) was the first of this title to be produced from digital data",
+            "answer": "What is the Times World Atlas (or Times Atlas of the World)?",
+            "image": "images/Times.JPG"
+        },
+        {
+            "value": 400,
+            "question": "45 years after producing its first map, the year the National Geographic Society published its first world atlas",
+            "answer": "When is 1963?",
+            "image": "images/NGS.JPG"
+        },
+        {
+            "value": 600,
+            "question": "The creator of this atlas spoke at the 1908 meeting of the AAG about creating an alternative to the \"evil Mercator\"",
+            "answer": "Who is John Paul Goode?",
+            "image": "images/Goodes.JPG"
+        },
+        {
+            "value": 800,
+            "question": "The 6th edition of this atlas, edited by Petermann, Berghaus and Vogel, made it a leading world atlas of the late 19th and early 20th centuries",
+            "answer": "What is Stieler's Handatlas (or Hand-Atlas über alle Theile der Erde und über das Weltgebäude)?",
+            "image": "images/Stielers.JPG"
+        },
+        {
+            "value": 1000,
+            "question": "The creator of this atlas was trained as a globemaker, which might have influenced his view of the world",
+            "answer": "Who is (Philippe) Vandermaelen?",
+            "image": "images/Vandermaelen.jpg"
+        }
+    ]
+}
+
+],
+"jeopardy":[
+     {
+        "name": "LAND ON BOTH SIDES",
+        "questions": [
+            {
+                "value": 100,
+                "question": "Iberian Peninsula, North Africa",
+                "answer": "What is the Strait of Gibraltar?"
+            },
+            {
+                "value": 200,
+                "question": "Arabian Peninsula, Horn of Africa",
+                "answer": "What is the Bab-el-Mandeb?"
+            },
+            {
+                "value": 300,
+                "question": "Malay Peninsula, Sumatra",
+                "answer": "What is the Strait of Malacca?"
+            },
+            {
+                "value": 400,
+                "question": "Upper Peninsula, Lower Peninsula",
+                "answer": "What are the Straits of Mackinac?"
+            },
+            {
+                "value": 500,
+                "question": "Jutland Peninsula, Norway",
+                "answer": "What is the Skagerrak?"
+            }
+        ]
+    },   
+    {
+        "name": "THE OTHER ONE",
+        "questions": [
+    {
+        "value": 100,
+        "question": "This nation gained its most recent independence in 1991, over two centuries after the US State.",
+        "answer": "What is Georgia?"
+    },
+    {
+        "value": 200,
+        "question": "After its capture this summer, this Ukrainian city drew attention for sharing the name of an American metropolis.",
+        "answer": "What is Niu-York?"
+    },
+    {
+        "value": 300,
+        "question": "This city sits about 10,000 km away from its namesake, at the confluence of the Ohio and Mississippi Rivers.",
+        "answer": "What is Cairo, Illinois?"
+    },
+    {
+        "value": 400,
+        "question": "Perhaps less well known than its famed western counterpart, this is nonetheless the longest river entirely within the state of Texas.",
+        "answer": "What is the Colorado River?"
+    },
+    {
+        "value": 500,
+        "question": "About 5% of the length of its more famous American counterpart, this 200-km tributary of the Ottawa River flows through eastern Ontario.",
+        "answer": "What is the Mississippi River?"
+    }
+]
+
+    },    
+    {
+        "name": "SECONDS",
+        "questions":[
+    {
+        "value": 100,
+        "question": "Located in this country, Aconcagua is the second highest mountain in the world, measured by prominence.",
+        "answer": "What is Argentina?"
+    },
+    {
+        "value": 200,
+        "question": "An arcsecond is this fraction of a degree.",
+        "answer": "What is 1/3600?"
+    },
+    {
+        "value": 300,
+        "question": "The second-most populous city named \"Texarkana\" in the United States is in this state.",
+        "answer": "What is Arkansas?"
+    },
+    {
+        "value": 400,
+        "question": "The second (1981) NACIS Annual Meeting was held in this city, approximately 215 miles southeast of the location of the 2025 Annual Meeting.",
+        "answer": "What is Gatlinburg, TN?"
+    },
+    {
+        "value": 500,
+        "question": "This is the name of Moldova's second largest city, a literal translation of the Romanian word for \"puddles\".",
+        "answer": "What is Bălți?"
+    }
+]
+
+    },    
+        
+    {
+        "name": "LOCAL NAMES",
+        "questions": [
+    {
+        "value": 100,
+        "question": "Called təqʷuʔmə (pronounced Tacoma), meaning mother of waters, in Lushootseed",
+        "answer": "What is Mt. Rainier?"
+    },
+    {
+        "value": 200,
+        "question": "Called Pahto by the Yakima people",
+        "answer": "What is Mt. Adams?"
+    },
+    {
+        "value": 300,
+        "question": "Called Lawetla'la or Loowit, meaning one from whom smoke comes, by the Cowlitz people",
+        "answer": "What is Mt. St. Helens?"
+    },
+    {
+        "value": 400,
+        "question": "Although many sources indicate that Wy'est is this peak's indigenous name, the name appears to be completely fictional.",
+        "answer": "What is Mt. Hood?"
+    },
+    {
+        "value": 500,
+        "question": "In his 1923 *Origin of Washington Place Names*, George Meany perpetuated an erroneous 1895 claim that the Duwamish called this mountain range \"Sun-a-do.\"",
+        "answer": "What are the Olympic Mountains?"
+    }
+]
+
+    },
+    {
+        "name": "ICONIC SOFTWARE",
+        "questions": [
+            {
+                "value": 100,
+                "question": "",
+                "answer": "What is ArcPro?",
+                "image": "images/ArcPro.jpg"
+            },
+            {
+                "value": 200,
+                "question": "",
+                "answer": "What is QGIS?",
+                "image": "images/QGIS.jpg"
+            },
+            {
+                "value": 300,
+                "question": "",
+                "answer": "What is Photoshop?",
+                "image": "images/Photoshop.jpg"
+            },
+            {
+                "value": 400,
+                "question": "",
+                "answer": "What is Eduard?",
+                "image": "images/Eduard.jpg"
+            },
+            {
+                "value": 500,
+                "question": "",
+                "answer": "What is Felt?",
+                "image": "images/Felt.jpg"
+            }
+        ]
+    },
+    {
+
+        "name": "BORDER COUNT",
+        "questions":[
+    {
+        "value": 100,
+        "question": "This African country is surrounded by the Atlantic Ocean on one side and Senegal on three others.",
+        "answer": "What is The Gambia?"
+    },
+    {
+        "value": 200,
+        "question": "This nation, though the world's second largest by total area, shares land borders with only two others.",
+        "answer": "What is Canada?"
+    },
+    {
+        "value": 300,
+        "question": "With ten borders, this South American country has the most on the continent, including ones with Argentina and Venezuela.",
+        "answer": "What is Brazil?"
+    },
+    {
+        "value": 400,
+        "question": "This country, which touches the Baltic Sea, has seven neighbors, including Germany, Slovakia, and Ukraine.",
+        "answer": "What is Poland?"
+    },
+    {
+        "value": 500,
+        "question": "This landlocked Central Asian country shares borders with four nations: China, Kazakhstan, Uzbekistan, and Tajikistan.",
+        "answer": "What is Kyrgyzstan?"
+    }
+]
+
+    }
+],
+    "final-jeopardy": {
+        "answer": "What is Kentucky?",
+        "category": "NAME THE STATE",
+        "question": "Dennis's favorite whiskey, Woodford Reserve, is from this state, which happens to have more miles of running water than any other state except Alaska."
+            
+            
+    }
+}
